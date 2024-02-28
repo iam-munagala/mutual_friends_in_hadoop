@@ -1,0 +1,5 @@
+UserAUserB	UserC
+UserAUserC	UserB
+UserBUserC	UserA UserD
+UserBUserD	UserC
+UserCUserD	UserB
